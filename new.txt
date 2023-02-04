@@ -2,3 +2,7 @@ This is my first file on github
 This is a simple text file 
 
 # This is just a edit I am doing to my first file
+
+this are some features I making for another branch
+feature 1
+feature 2
